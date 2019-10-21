@@ -1,0 +1,14 @@
+{
+  "blog" : {
+    "posts" : {
+      "-LrdU-a8dq_yoxMwbBUe" : {
+        "body" : "This is really a cool database that is managed in real time.",
+        "title" : "Laravel 6 Firebase Integration"
+      },
+      "-Lre1WoM9v6L5hkUMLqA" : {
+        "body" : "This is really a cool database that is managed in real time.",
+        "title" : "Laravel 6 Auth"
+      }
+    }
+  }
+}
